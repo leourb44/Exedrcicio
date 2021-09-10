@@ -1,0 +1,76 @@
+*{
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: #ececec;
+}
+
+footer{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: .8em;
+    margin-top: 10px;
+    font-style: italic;
+}
+
+#divAdd {
+}
+
+#divLista {
+    background-color: rgba(240, 240, 240, 0.719);
+    width: 500px;
+    height: auto;
+    margin: 10px auto auto auto;
+    padding: 10px;
+    border-radius: 10px;
+   
+}
+
+#descricaoTarefa{
+    margin-top: 10px;
+    background-color: rgba(0, 0, 0, 0.664);
+    color: white;
+    border-radius: 5px 5px 0px 5px;
+}
+
+.tarefa {
+    text-align: left;
+    margin-left: 10%;
+    margin-bottom: 1.5%;
+}
+
+.descTarefa {
+    display: inline;
+}
+
+.prioridade-alta {
+    color: red;
+    font-size: large;
+}
+
+.prioridade-normal {
+    color: orange;
+    font-size: large;
+}
+
+.prioridade-baixa {
+    color: green;
+    font-size: large;
+}
+#prioridadeTarefa{
+    padding: 2px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+#bg1{
+    background-color: rgba(253, 255, 221, 0.575);
+    width: 600px;
+    margin: 100px auto auto auto;
+    height: auto;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: -3px 3px 10px #00000025;
+}
